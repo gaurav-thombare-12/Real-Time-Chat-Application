@@ -58,6 +58,12 @@ This is a real-time chat application built using **Spring Boot, WebSockets, STOM
 ## Output Screenshot
 ![image](https://github.com/user-attachments/assets/5a3e0c90-12b9-46dd-8387-ffe789b15e7c)
 
+## Output Video
+
+
+https://github.com/user-attachments/assets/0ae5492a-7e4d-4f95-ad0e-0fdb3a496b9c
+
+
 
 ## Future Enhancements
 - User authentication & authorization
