@@ -56,7 +56,8 @@ This is a real-time chat application built using **Spring Boot, WebSockets, STOM
 | `/topic/message` | WebSocket | Broadcasts messages to all connected clients |
 
 ## Output Screenshot
-![Real-Time Chat Application](image.png)
+![image](https://github.com/user-attachments/assets/5a3e0c90-12b9-46dd-8387-ffe789b15e7c)
+
 
 ## Future Enhancements
 - User authentication & authorization
